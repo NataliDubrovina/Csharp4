@@ -3,27 +3,6 @@
 82 -> 10
 9012 -> 12*/
 
-// int ReadInt(string text)  
-// {     System.Console.Write(text);     
-//       return Convert.ToInt32(Console.ReadLine()); 
-// }
-
-// int Numbers(int number) 
-// {     
-//     int i = number.length;
-//     while (i!=0)
-//     {
-//         number3 = number3 * number1;
-//         number2 -= 1;
-//     }
-//     return number3;
-// }
-
-// int number1 = ReadInt("Введите первое число: "); 
-
-
-
-// Подсчет количества символов в числе
 int Length(int a)
 {
     int index = 0;
